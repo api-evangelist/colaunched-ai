@@ -64,5 +64,111 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-colaunched-ai is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://colaunched.ai/
+Colaunched is a platform that surfaces business ideas derived from real public demand, scores them for feasibility, timing, market gap, and personal fit, and provides a ninety‑day launch plan with verified first‑revenue milestones. Users can explore ideas, receive detailed scoring, and access AI‑assisted tools such as Claude and ChatGPT to evaluate and execute concepts.
+
+**Areas:** Company · Business · Startup · Idea-Generation · Market-Research
+
+## colaunched-ai on APIs.io
+
+Everything profiled for colaunched-ai is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/colaunched-ai/](https://apis.io/providers/colaunched-ai/)** — or go straight to one of the APIs or properties below.
+
+### APIs (1)
+
+- [Colaunched API](https://apis.io/apis/colaunched-ai/colaunched-api/) — API reference for Colaunched AI (access gated behind login).
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Colaunched Ai Authentication](https://apis.io/security/colaunched-ai/colaunched-ai-authentication/)
+- [Colaunched Ai Domain Security](https://apis.io/security/colaunched-ai/colaunched-ai-domain-security/)
+
+#### OAuth scopes (1)
+
+The permissions the API asks for.
+
+- [Colaunched Ai Scopes](https://apis.io/scopes/colaunched-ai/colaunched-ai-scopes/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Colaunched Ai Plans Pricing](https://apis.io/plans/colaunched-ai/colaunched-ai-plans-pricing/)
+
+#### Rate limits (1)
+
+Published request limits.
+
+- [Colaunched Ai Rate Limits](https://apis.io/rate-limits/colaunched-ai/colaunched-ai-rate-limits/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://colaunched.ai/)
+- [Documentation](https://colaunched.ai/docs)
+- [API reference](https://colaunched.ai/docs)
+- [Pricing](https://colaunched.ai/pricing)
+- [Support](https://colaunched.ai/contact)
+- [Blog](https://colaunched.ai/blog)
+- [Terms of service](https://colaunched.ai/terms/)
+- [Privacy policy](https://colaunched.ai/privacy/)
+
+## API Evangelist rating
+
+**Kin Score 28.3** — thin · rubric 0.25.0 · scored 2026-10-30
+
+| Facet | Score |
+|---|---|
+| Discoverability | 57.1 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 33.3 |
+| Access clarity | 73.2 |
+
+**Agent readiness 8.5** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | documented (partial credit) |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | yes |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+
+**Regulatory alignment 23.5** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/colaunched-ai/](https://apis.io/providers/colaunched-ai/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for colaunched-ai: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/colaunched-ai/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
